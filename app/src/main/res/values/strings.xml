@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MPKdisplay2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="OK_button">OK</string>
+    <string name="title_activity_browser">Browser</string>
+</resources>
